@@ -75,8 +75,8 @@ kramdown:
 # more info please open https://valine.js.org
 valine:
   enable: true
-  appid:  CTXh6zm6G5OAFYHbjO2dziWx-gzGzoHsz # your leancloud app id
-  appkey: EttDnDooYHswiRRyCYnyY1V0 # your leancloud app key
+  appid:  P79W0JxT1RMyKNUu3p6BSr19-gzGzoHsz # your leancloud app id
+  appkey: s4G9Kj4T5jcbaoi8eXMiUJwv # your leancloud app key
   notify: true # mail notifier , https://github.com/xCss/Valine/wiki
   verify: true # Verification code
   placeholder: 非Github帐号登录用户，在此处留言 # comment box placeholder
