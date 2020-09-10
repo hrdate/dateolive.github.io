@@ -1,13 +1,11 @@
 # Site settings
-title: datealive
-SEOTitle: ZRF's blog | datealive的博客
+title: 三四月做的事，七八月自会有答案。
+SEOTitle:  hrdate 的博客
 header-img: img/post-bg-universe.jpg
-email: 2448282543@qq.com
+email: 535523596@qq.com
 description: "better late than never."
-keyword: "ZRF, ZRF'sBlog, datealive的博客, zhangrenfeng, 张壬丰, student, acm, 广州大学"
-url: "www.datealive.top"          # your host, for absolute URL
+keyword: "hrd,19小白入门,广大ACM蒟蒻一枚,"
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/dateolive/dateolive.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -24,8 +22,8 @@ baidu_url_submit:
 
 
 #RSS订阅
-name:         datealive  
-description:  ZRF's blog  
+name:         hrdate  
+description:  hrdate's blog  
 url:          
 
 
@@ -96,9 +94,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: eb59c50048ba41cf6e00                            #生成的clientID
   clientSecret: 3fc5fe54f7bf69d86357d60667618bd006c22570    #生成的clientSecret
-  repo: dateolive.github.io    #仓库名称
-  owner: dateolive    #github用户名
-  admin: dateolive
+  repo: hrdate.github.io    #仓库名称
+  owner: hrdate    #github用户名
+  admin: hrdate
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -107,10 +105,10 @@ gitalk:
 # SNS settings
 RSS: false
 weibo_username:     6276083536
-zhihu_username:     dateolive
-github_username:    dateolive
-facebook_username:  datealive
-jianshu_username:   datealive
+zhihu_username:     hrdate
+github_username:    hrdate
+facebook_username:  hrdate
+jianshu_username:   hrdate
 
 
 # Featured Tags
@@ -131,7 +129,7 @@ friends: [
         href: "https://wu-kan.cn/#/"  
     },
       {
-        title: "梦独吟——我的博客",
+        title: "梦独吟——大佬QAQ的博客",
         href: "https://www.datealive.top/"  
     }
 ]
