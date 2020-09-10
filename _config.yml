@@ -94,8 +94,8 @@ valine:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: eb59c50048ba41cf6e00                            #生成的clientID
-  clientSecret: 3fc5fe54f7bf69d86357d60667618bd006c22570    #生成的clientSecret
+  clientID: 91fd69f89ce4c6cfc421                            #生成的clientID
+  clientSecret: f1d5cb7f88588718e5b79da2f5186cbf8eccff47    #生成的clientSecret
   repo: hrdate.github.io    #仓库名称
   owner: hrdate    #github用户名
   admin: hrdate
