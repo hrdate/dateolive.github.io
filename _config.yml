@@ -1,6 +1,6 @@
 # Site settings
 title: 不向人间怨不平
-SEOTitle:  hrdate 的博客
+SEOTitle:  hrdate的博客
 header-img: img/post-bg-universe.jpg
 email: 535523596@qq.com
 description: "better late than never."
@@ -14,7 +14,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 
 baidu_url_submit:
   count: 1               # 提交最新的多少个链接
-  host: www.datealive.top    # 在百度站长平台中添加的域名
+  host: https://hrdate.github.io/    # 在百度站长平台中添加的域名
   token: 6740EpCr0Oxxmgaq      # 秘钥
   path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里
 
@@ -104,7 +104,6 @@ gitalk:
 
 # SNS settings
 RSS: false
-weibo_username:     535523596
 zhihu_username:     qi-dian-87-39
 github_username:    hrdate
 facebook_username:  hrdate
