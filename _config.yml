@@ -110,7 +110,8 @@ zhihu_username:     qi-dian-87-39
 github_username:    hrdate
 facebook_username:  hrdate
 jianshu_username:   hrdate
-<a class="csdn" href="https://blog.csdn.net/hrd535523596" title="CSDN" target="_blank"><i class="icon-csdn"></i></a>
+csdn_username: hrd535523596
+
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
