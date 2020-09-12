@@ -109,15 +109,7 @@ RSS: false
 zhihu_username:     qi-dian-87-39
 github_username:    hrdate
 facebook_username:  hrdate
-
-<li>
-                                <a target="_blank" href="https://blog.csdn.net/hrd535523596">
-                                    <span class="fa-stack fa-lg">
-                                        <i class="fa fa-circle fa-stack-2x"></i>
-                                        <i class="fa  fa-stack-1x fa-inverse">C</i>
-                                    </span>
-                                </a>
-                            </li>
+csdn_username: 丶di
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
