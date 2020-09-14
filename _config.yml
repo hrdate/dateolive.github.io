@@ -125,7 +125,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "我的CSDN——只会水题简单题的蒟蒻QAQ",
+        title: "我的CSDN——水水题简单题",
         href: "https://blog.csdn.net/hrd535523596"  
     },
     
