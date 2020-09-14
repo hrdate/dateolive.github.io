@@ -125,6 +125,11 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "我的CSDN——只会水题简单题的蒟蒻QAQ",
+        href: "https://blog.csdn.net/hrd535523596"  
+    },
+    
+    {
         title: "wu-kan——中大的学长",
         href: "https://wu-kan.cn/#/"  
     },
@@ -140,5 +145,6 @@ friends: [
         title: "星爷——校队颜值nb担当",
         href: "https://www.waltz26.cn/"  
     },
+    
 ]
 
